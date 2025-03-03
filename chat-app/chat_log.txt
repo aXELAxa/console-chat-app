@@ -1,0 +1,11 @@
+[('127.0.0.1', 53488)] ALES has joined the chat.
+[('127.0.0.1', 53488)] hi
+[('127.0.0.1', 53488)] what
+[('127.0.0.1', 53488)] this is amaizinng
+[('127.0.0.1', 53488)] hollyship
+[('127.0.0.1', 53655)] alexer has joined the chat.
+[('127.0.0.1', 53664)] ake has joined the chat.
+[('127.0.0.1', 53664)] ake: hi
+[('127.0.0.1', 53655)] alexer: wow
+[('127.0.0.1', 53664)] ake: this is amaizing
+[('127.0.0.1', 53664)] ake: year
